@@ -1,0 +1,23 @@
+-------------------------------- Hotel_Management_System --------------------------------
+The application should be responsive
+
+The application can be used by 2 types of users :
+	- Administrator
+	- Client
+
+The Client has the following functionalities :
+
+	1. Can create an account
+	2. Can connect based on his email and password	
+	3. Can disconnect himself
+	4. Can make a reservation according to the selected calendar dates 
+	5. Can see the reservations made in the customer's account
+	6. Can cancel the reservation
+	7. Can add a review
+
+The Administraor has the following functionalities :
+	
+	1.As well as the client can create an account and connect based on his email and password
+	2.Logout
+	3.Room management (CRUD - create a new room, display rooms, update rooms, delete rooms)
+	4.
