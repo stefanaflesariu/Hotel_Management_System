@@ -107,29 +107,6 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
-      },
-      "Hotel_Management_System.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Hotel_Management_System.DataAccess": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Hotel_Management_System.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hotel_Management_System.Application.dll": {}
-        }
-      },
-      "Hotel_Management_System.DataAccess/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Hotel_Management_System.DataAccess.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hotel_Management_System.DataAccess.dll": {}
-        }
       }
     }
   },
@@ -483,21 +460,10 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
-    },
-    "Hotel_Management_System.Application/1.0.0": {
-      "type": "project",
-      "path": "../Hotel_Management_System.Application/Hotel_Management_System.Application.csproj",
-      "msbuildProject": "../Hotel_Management_System.Application/Hotel_Management_System.Application.csproj"
-    },
-    "Hotel_Management_System.DataAccess/1.0.0": {
-      "type": "project",
-      "path": "../Hotel_Management_System.DataAccess/Hotel_Management_System.DataAccess.csproj",
-      "msbuildProject": "../Hotel_Management_System.DataAccess/Hotel_Management_System.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Hotel_Management_System.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -529,11 +495,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\denni\\Documents\\GitHub\\Hotel_Management_System\\Hotel_Management_System\\Hotel_Management_System.Application\\Hotel_Management_System.Application.csproj": {
-              "projectPath": "C:\\Users\\denni\\Documents\\GitHub\\Hotel_Management_System\\Hotel_Management_System\\Hotel_Management_System.Application\\Hotel_Management_System.Application.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
