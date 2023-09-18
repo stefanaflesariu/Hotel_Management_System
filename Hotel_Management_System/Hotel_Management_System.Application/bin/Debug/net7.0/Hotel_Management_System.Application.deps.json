@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hotel_Management_System.Application/1.0.0": {
+        "dependencies": {
+          "Hotel_Management_System.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Hotel_Management_System.Application.dll": {}
+        }
+      },
+      "Hotel_Management_System.DataAccess/1.0.0": {
+        "runtime": {
+          "Hotel_Management_System.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hotel_Management_System.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hotel_Management_System.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.AssemblyInfo.cs
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\WebApplication\WebApplication\obj\Debug\net7.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache

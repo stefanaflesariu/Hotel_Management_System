@@ -1,0 +1,12 @@
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\bin\Debug\net7.0\Hotel_Management_System.DataAccess.deps.json
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\bin\Debug\net7.0\Hotel_Management_System.DataAccess.dll
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\bin\Debug\net7.0\Hotel_Management_System.DataAccess.pdb
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.csproj.AssemblyReference.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.AssemblyInfo.cs
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.dll
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\refint\Hotel_Management_System.DataAccess.dll
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\Hotel_Management_System.DataAccess.pdb
+C:\Users\denni\Documents\GitHub\Hotel_Management_System\Hotel_Management_System\Hotel_Management_System.DataAccess\obj\Debug\net7.0\ref\Hotel_Management_System.DataAccess.dll
